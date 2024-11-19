@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+/cluster_results
+/transform_datasets
+dataset_usaha.csv
+dataset_usaha.xlsx
