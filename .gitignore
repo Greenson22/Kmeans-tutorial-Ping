@@ -1,6 +1,10 @@
 .ipynb_checkpoints
-/cluster_results
-/transform_datasets
+/usaha/cluster_results
+/usaha/transform_datasets
 /env
-dataset_usaha.csv
-dataset_usaha.xlsx
+/usaha/dataset_usaha.csv
+/usaha/dataset_usaha.xlsx
+/saham/data mentah
+
+# bagian saham
+/saham/data mentah
